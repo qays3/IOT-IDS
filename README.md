@@ -1,6 +1,4 @@
-Here's a version that avoids terms typically associated with AI:
 
----
 
 # IoT IDS - Security Monitoring System
 
@@ -17,6 +15,7 @@ Welcome to the **IoT IDS (Intrusion Detection System)** project! This platform k
 7. [Data Resources](#data-resources)
 8. [How to Contribute](#how-to-contribute)
 9. [License Information](#license-information)
+10. [Credits](#Credits)
 
 ## Core Functions
 
@@ -211,3 +210,5 @@ This project is distributed under the [MIT License](LICENSE).
 
 - **Contact Us:** Feel free to reach out via email at [qayssarayra.h@gmail.com](mailto:qayssarayra.h@gmail.com).
 
+## Credits
+[qays3](https://github.com/qays3) ([Support qays](https://buymeacoffee.com/hidden))
