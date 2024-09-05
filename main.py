@@ -15,7 +15,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 
 THREAT_DATASET_PATH = './archive/cyber-threat-intelligence_all.csv'
-API_URL = 'https://metaitcoding.com/b93b0c7645894ce6b193c4fa69454f0/?secretkey=c55d47f942c79e312982f60d1a584b46'
+API_URL = 'https:/yourdomain.com/securepath/?secretkey=c55d47f942c79e312982f60d1a584b46'
 
 def load_threat_dataset(path):
     try:
