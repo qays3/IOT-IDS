@@ -210,11 +210,4 @@ This project is distributed under the [MIT License](LICENSE).
 ## Additional Details
 
 - **Contact Us:** Feel free to reach out via email at [qayssarayra.h@gmail.com](mailto:qayssarayra.h@gmail.com).
-- **Visit Us:** Check out [MetaItCoding](https://metaitcoding.com) for more cool projects and insights.
-
----
-
-We hope the **IoT IDS** project helps you enhance your IoT security!
-
----
 
