@@ -140,7 +140,7 @@ The PHP script acts as the API endpoint for IoT devices to send alerts about det
 #### API Call
 
 - **Method:** POST
-- **Endpoint:** `https://yourdomain.com/API/api.php`
+- **Endpoint:** `https://yourdomain.com/securepath/?secretkey=?`
 - **Parameters:**
   - `ip` (string): Device’s IP address.
   - `threat_id` (string): Unique identifier for the threat.
@@ -155,7 +155,7 @@ The PHP script acts as the API endpoint for IoT devices to send alerts about det
 #### Example
 
 ```bash
-curl -X POST https://yourdomain.com/API/ \
+curl -X POST https://yourdomain.com/securepath/?secretkey=? \
      -d "ip=192.168.1.10" \
      -d "threat_id=12345" \
      -d "threat_name=Malware" \
