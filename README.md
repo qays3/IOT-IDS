@@ -32,7 +32,7 @@ The system consists of two main parts:
 1. **Core Monitoring Script (VPS):** Operates on a Virtual Private Server (VPS) to analyze network traffic and detect risks.
 2. **IoT Devices:** Devices send alert data to the main script through an API when they detect potential threats.
 
-![System Design Diagram](docs/architecture.png)
+
 
 ## Project Layout
 
