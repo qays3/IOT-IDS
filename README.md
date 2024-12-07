@@ -4,6 +4,9 @@
 
 Welcome to the **IoT IDS (Intrusion Detection System)** project! This platform keeps an eye on your IoT devices, looking for potential network security issues and notifying you via email when suspicious activities are spotted. The design is straightforward and scalable, making it ideal for anyone exploring how to secure their IoT environment.
 
+![alt text](img/IOT.png)
+
+
 ## Table of Contents
 
 1. [Core Functions](#core-functions)
